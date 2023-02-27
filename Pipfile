@@ -4,6 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+black = "*"
+document = "*"
 
 [dev-packages]
 flake8 = "===6.0.0"
