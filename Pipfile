@@ -6,6 +6,10 @@ name = "pypi"
 [packages]
 black = "*"
 document = "*"
+azure-ai-ml = "==1.4.0"
+mldesigner = "==0.1.0b11"
+"azure.identity" = "==1.12.0"
+pymupdf = "===1.21.1"
 
 [dev-packages]
 flake8 = "===6.0.0"
